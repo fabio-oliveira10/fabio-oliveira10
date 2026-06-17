@@ -109,6 +109,14 @@ Automação de Processos
 
 ## Contato
 
-📧 fabio_oliveira10@live.com
+<div align="left">
 
-💼 linkedin.com/in/fabiooliveira1007
+<a href="mailto:fabio_oliveira10@live.com">
+<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/fabiooliveira1007">
+<img src="https://img.shields.io/badge/LinkedIn-F%C3%A1bio%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
