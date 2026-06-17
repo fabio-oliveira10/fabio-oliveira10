@@ -1,91 +1,114 @@
-<h1 align="center">Fábio Oliveira</h1>
+<div align="center">
 
-<p align="center">
-Estudante de Ciências Contábeis • FIPECAFI
-</p>
+# Fábio Oliveira
 
-<p align="center">
-Python • Dados • Compliance • Fiscal
-</p>
+### Ciências Contábeis • FIPECAFI
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+para+Automa%C3%A7%C3%A3o+e+Dados;Compliance+Operacional+e+Dados;Interesse+em+Fiscal+e+Tribut%C3%A1rio;Construindo+Projetos+com+Python" />
 
-## Sobre mim
+<br>
 
-Sou estudante de Ciências Contábeis pela FIPECAFI, com formação anterior em Engenharia Civil e interesse em desenvolver carreira na área Fiscal e Tributária.
+<a href="https://github.com/fabio-oliveira10">
+<img src="https://img.shields.io/github/followers/fabio-oliveira10?label=Seguidores&style=for-the-badge">
+</a>
 
-Atualmente atuo com automação de processos, tratamento de dados e geração de relatórios, utilizando Python e ferramentas de produtividade para reduzir atividades manuais e aumentar a confiabilidade das informações.
+<a href="https://www.linkedin.com/in/fabiooliveira1007">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-Neste perfil compartilho projetos relacionados a automação, dados, compliance e aplicações voltadas ao contexto financeiro e fiscal.
-
----
-
-## Tecnologias e Ferramentas
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
-
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
-</p>
+</div>
 
 ---
 
-## Interesses
+## Sobre Mim
 
-- Área Fiscal e Tributária
-- Automação de Processos
-- Compliance
-- Dados Aplicados a Negócios
-- Obrigações Acessórias
-- SPED
-- Reforma Tributária
+Sou estudante de Ciências Contábeis pela FIPECAFI e atualmente atuo com automação de processos, tratamento de dados e geração de relatórios.
+
+Tenho interesse em desenvolver carreira na área Fiscal e Tributária, utilizando tecnologia para aumentar eficiência operacional, reduzir tarefas manuais e melhorar a qualidade das informações.
 
 ---
 
-## Projeto em destaque
+## Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge"/>
+
+</div>
+
+---
+
+## Atualmente
+
+🔹 Estagiário de Compliance Operacional e Dados
+
+🔹 Desenvolvimento de automações em Python
+
+🔹 Estudos em Fiscal, Tributário e Obrigações Acessórias
+
+🔹 Consolidação e tratamento de dados financeiros
+
+---
+
+## Projetos em Desenvolvimento
 
 ### Extrator de Investimentos Internacionais
 
-Aplicação desenvolvida em Python para automatizar a leitura de extratos em PDF, consolidar posições patrimoniais e gerar relatórios em Excel com conversão automática de valores utilizando a PTAX do Banco Central.
+Automação para leitura de extratos PDF, captura automática da PTAX e geração de relatórios em Excel.
 
----
+### Leitor de SPED Fiscal
 
-## Formação
+Projeto futuro para análise estrutural de arquivos SPED e consolidação de informações em Excel.
 
-🎓 Ciências Contábeis — FIPECAFI
+### Analisador XML de NF-e
 
-🎓 Engenharia Civil — Estácio
+Projeto futuro para extração de CFOP, CST, NCM e indicadores fiscais.
 
 ---
 
 ## Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabio-oliveira10&show_icons=true">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fabio-oliveira10&show_icons=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-oliveira10&layout=compact">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-oliveira10&layout=compact"/>
 
-</p>
+</div>
+
+---
+
+## Objetivos de Aprendizado
+
+```text
+Python
+Pandas
+SQL
+SPED
+EFD Contribuições
+ECD
+ECF
+DCTFWeb
+Reforma Tributária
+Automação de Processos
+```
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/fabiooliveira1007)
+📧 fabio_oliveira10@live.com
 
-Email: fabio_oliveira10@live.com
+💼 linkedin.com/in/fabiooliveira1007
