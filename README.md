@@ -1,140 +1,91 @@
-<div align="center">
+<h1 align="center">Fábio Oliveira</h1>
 
-# Fábio Oliveira
+<p align="center">
+Estudante de Ciências Contábeis • FIPECAFI
+</p>
 
-### Tax Technology • Compliance • Automação Fiscal • Python
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Ci%C3%AAncias+Cont%C3%A1beis+%7C+FIPECAFI;Tax+Technology+em+Forma%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+Fiscal+com+Python;Compliance+e+Dados;Maior+Efici%C3%AAncia+atrav%C3%A9s+da+Tecnologia" />
-
-</div>
-
----
-
-# Sobre Mim
-
-Sou estudante de **Ciências Contábeis pela FIPECAFI** e atuo no desenvolvimento de soluções voltadas para automação de processos, consolidação de dados e suporte a atividades de compliance.
-
-Minha principal área de interesse é **Tax Technology**, combinando conhecimentos de:
-
-- Fiscal
-- Tributário
-- Compliance
-- Automação
-- Dados
-
-Atualmente desenvolvo ferramentas para automatizar atividades operacionais utilizando Python, APIs, Google Sheets e Excel.
+<p align="center">
+Python • Dados • Compliance • Fiscal
+</p>
 
 ---
 
-# Stack Tecnológica
+## Sobre mim
 
-<div align="center">
+Sou estudante de Ciências Contábeis pela FIPECAFI, com formação anterior em Engenharia Civil e interesse em desenvolver carreira na área Fiscal e Tributária.
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
+Atualmente atuo com automação de processos, tratamento de dados e geração de relatórios, utilizando Python e ferramentas de produtividade para reduzir atividades manuais e aumentar a confiabilidade das informações.
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
+Neste perfil compartilho projetos relacionados a automação, dados, compliance e aplicações voltadas ao contexto financeiro e fiscal.
 
 ---
 
-# Áreas de Interesse
+## Tecnologias e Ferramentas
 
-```text
-Tax Technology
-Compliance Tributário
-Automação Fiscal
-SPED
-EFD Contribuições
-ECD
-ECF
-DCTFWeb
-Reforma Tributária
-Dados Aplicados ao Fiscal
-```
+<p>
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-# Projeto em Destaque
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-## Extrator Internacional de Investimentos
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-Ferramenta desenvolvida em Python para automatizar a leitura de extratos internacionais e consolidar informações patrimoniais.
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 
-### Funcionalidades
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
 
-✔ Leitura de PDF
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white">
 
-✔ Extração de ativos
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-✔ Consolidação patrimonial
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
-✔ Integração PTAX Banco Central
-
-✔ Conversão USD → BRL
-
-✔ Exportação para Excel
-
-✔ Apoio a processos de compliance
+</p>
 
 ---
 
-# Atualmente Estudando
+## Interesses
 
-- Legislação Tributária
-- Obrigações Acessórias
-- SPED Fiscal
-- Reforma Tributária
-- Python para Dados
-- SQL
-- Tax Technology
-
----
-
-# Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabio-oliveira10&show_icons=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-oliveira10&layout=compact"/>
-
-</div>
-
----
-
-# Objetivo Profissional
-
-Construir carreira na área Fiscal e Tributária com foco em:
-
-- Tax Technology
-- Compliance
+- Área Fiscal e Tributária
 - Automação de Processos
-- Dados Fiscais
-- Soluções em Python aplicadas ao ambiente tributário
+- Compliance
+- Dados Aplicados a Negócios
+- Obrigações Acessórias
+- SPED
+- Reforma Tributária
 
 ---
 
-# Contato
+## Projeto em destaque
 
-<div>
+### Extrator de Investimentos Internacionais
 
-<a href="mailto:fabio_oliveira10@live.com">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+Aplicação desenvolvida em Python para automatizar a leitura de extratos em PDF, consolidar posições patrimoniais e gerar relatórios em Excel com conversão automática de valores utilizando a PTAX do Banco Central.
 
-<a href="https://www.linkedin.com/in/fabiooliveira1007">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+---
 
-</div>
+## Formação
+
+🎓 Ciências Contábeis — FIPECAFI
+
+🎓 Engenharia Civil — Estácio
+
+---
+
+## Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fabio-oliveira10&show_icons=true">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-oliveira10&layout=compact">
+
+</p>
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/fabiooliveira1007)
+
+Email: fabio_oliveira10@live.com
