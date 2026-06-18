@@ -8,10 +8,6 @@
 
 <br>
 
-<a href="https://github.com/fabio-oliveira10">
-<img src="https://img.shields.io/github/followers/fabio-oliveira10?label=Seguidores&style=for-the-badge">
-</a>
-
 <a href="https://www.linkedin.com/in/fabiooliveira1007">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -52,13 +48,13 @@ Tenho interesse em desenvolver carreira na área Fiscal e Tributária, utilizand
 
 ## Atualmente
 
-🔹 Estagiário de Compliance Operacional e Dados
+🔹 Estagiário de Compliance Operacional e Dados (Consultoria de Investimentos)
 
 🔹 Desenvolvimento de automações em Python
 
 🔹 Estudos em Fiscal, Tributário e Obrigações Acessórias
 
-🔹 Consolidação e tratamento de dados financeiros
+🔹 Tratamento de dados financeiros
 
 ---
 
